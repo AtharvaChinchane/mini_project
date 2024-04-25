@@ -1,1 +1,1 @@
-# mini_project
+# miniProject_FitFocus
