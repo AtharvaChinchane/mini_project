@@ -1,4 +1,6 @@
 Introduction to FitFocus
+
+
 FitFocus represents a dynamic solution in the realm of fitness tracking, aiming to empower users to achieve their health and fitness objectives effectively. Built upon a foundation of HTML, CSS, and JavaScript, FitFocus harnesses the synergy of these languages to create an engaging and user-friendly experience. This comprehensive web application offers a suite of tools and features tailored to support users at every stage of their fitness journey, from goal setting to progress tracking and beyond.
 
 
